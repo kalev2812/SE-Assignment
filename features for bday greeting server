@@ -1,6 +1,6 @@
 """
     This is a simple webserver implemented using Python Flask library
-    Author: rajshriabuj
+    Author: Vidya kale
 """
 from flask import Flask, request
 from datetime import datetime
